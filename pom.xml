@@ -10,8 +10,8 @@
 
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>dev.apurvasingh.mini-library</groupId>
-    <artifactId>mini-library</artifactId>
+    <groupId>com.muskan.singh.lib_management_system</groupId>
+    <artifactId>lib-management-system</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mini-library</name>
     <description>mini-library</description>
